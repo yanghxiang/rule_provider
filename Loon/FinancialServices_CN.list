@@ -60,8 +60,8 @@ DOMAIN-SUFFIX,boccfc.cn
 DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocgi.com
 DOMAIN-SUFFIX,bocgins.com
-DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,bochkonline.com
+# DOMAIN-SUFFIX,bochk.com
+# DOMAIN-SUFFIX,bochkonline.com
 DOMAIN-SUFFIX,bocichina.cn
 DOMAIN-SUFFIX,bocichina.com
 DOMAIN-SUFFIX,bocichina.com.cn
